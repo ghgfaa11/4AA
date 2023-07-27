@@ -21,19 +21,19 @@
                         "dest": 3001
                     },
                     {
-                        "path": "/vless",
+                        "path": "/vless-7adf91db-47c4-46e5-a12d-217532e82582",
                         "dest": 3002
                     },
                     {
-                        "path": "/vmess",
+                        "path": "/vmess-7adf91db-47c4-46e5-a12d-217532e82582",
                         "dest": 3003
                     },
                     {
-                        "path": "/trojan",
+                        "path": "/trojan-7adf91db-47c4-46e5-a12d-217532e82582",
                         "dest": 3004
                     },
                     {
-                        "path": "/shadowsocks",
+                        "path": "/shadowsocks-7adf91db-47c4-46e5-a12d-217532e82582",
                         "dest": 3005
                     }
                 ]
@@ -76,7 +76,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/vless"
+                    "path": "/vless-7adf91db-47c4-46e5-a12d-217532e82582"
                 }
             },
             "sniffing": {
@@ -104,7 +104,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/vmess"
+                    "path": "/vmess-7adf91db-47c4-46e5-a12d-217532e82582"
                 }
             },
             "sniffing": {
@@ -132,7 +132,7 @@
                 "network": "ws",
                 "security": "none",
                 "wsSettings": {
-                    "path": "/trojan"
+                    "path": "/trojan-7adf91db-47c4-46e5-a12d-217532e82582"
                 }
             },
             "sniffing": {
@@ -161,7 +161,7 @@
             "streamSettings": {
                 "network": "ws",
                 "wsSettings": {
-                    "path": "/shadowsocks"
+                    "path": "/shadowsocks-7adf91db-47c4-46e5-a12d-217532e82582"
                 }
             },
             "sniffing": {
